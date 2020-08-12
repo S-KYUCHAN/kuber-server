@@ -1,0 +1,16 @@
+{
+  "name": "kuber-server",
+  "version": "1.0.0",
+  "description": "uber clone coding with typescript",
+  "main": "index.js",
+  "repository": "https://github.com/S-KYUCHAN/kuber-server",
+  "author": "S-KYUCHAN <skc01012001@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
