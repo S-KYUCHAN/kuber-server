@@ -6,11 +6,11 @@
   "repository": "https://github.com/S-KYUCHAN/kuber-server",
   "author": "S-KYUCHAN <skc01012001@naver.com>",
   "license": "MIT",
-  "dependencies": {
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.7"
-  },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "@types/node": "^14.0.27",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.9.7"
   }
 }
